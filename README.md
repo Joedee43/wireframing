@@ -178,3 +178,46 @@ By iterating quickly in wireframe form, teams avoid costly revisions during codi
 
 Wireframes bridge the gap between **idea and implementation**, helping teams align faster, design smarter, and deliver better user experiences.
 
+---
+
+## 🛠 Real-World Scenario: Wireframing to Identify Usability Issues
+
+### 🧩 The Scenario
+
+While designing the **property booking application** (as shown in the wireframes above), the team initially created a wireframe that combined the **"Sign Up"** and **"Sign In"** functionality into a single screen. Users were expected to toggle between the two via a small switch at the top of the screen.
+
+### 🚨 The Usability Issue
+
+During early reviews, stakeholders and a few test users found this design **confusing**. Users couldn’t easily tell whether they were registering or logging in, leading to potential **mistakes like re-entering credentials** or being redirected incorrectly.
+
+Additionally, in the booking flow, the original wireframe did not include a **clear breakdown of costs** before confirming the order. This raised concerns about user trust and transparency.
+
+### ✅ The Resolution
+
+Thanks to wireframing, these issues were caught **before any development began**. The design team revised the wireframes to:
+
+- Split "Sign In" and "Sign Up" into separate screens with clear CTAs and supportive links like “Join now” and “Forgot password?”
+- Add a **"Review Order"** screen with cost breakdown, contact form, and cancellation policy before the user proceeds to payment.
+
+These small changes, made quickly and easily at the wireframing stage, significantly improved user flow and reduced confusion.
+
+### 🎯 The Outcome
+
+When the app was built based on the updated wireframes:
+
+- Users had a much clearer onboarding experience.
+- Fewer support tickets were raised regarding booking confirmation and payments.
+- Development time was reduced because fewer UI changes were needed after testing.
+
+---
+
+## 🔚 Summary: Why Wireframing Matters
+
+Wireframing plays a vital role in creating user-friendly designs. It enables teams to:
+
+- Identify and fix usability issues early.
+- Align on structure and features before development.
+- Improve collaboration and reduce costly rework.
+
+By visualizing ideas early, wireframing ensures that the final product is not only functional, but also intuitive and enjoyable for users.
+
